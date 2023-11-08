@@ -1,5 +1,5 @@
-def printrange():
-    for i in range(1,10):
+def printrange(r1,r2):
+    for i in range(r1,r2):
         print(i)
 
-printrange()
+printrange(51,71)
